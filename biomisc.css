@@ -1,0 +1,13 @@
+body {
+    width: 800px;
+    background-color: lightgrey;
+}
+
+div.navigation {
+    background-color: lightyellow;
+}
+
+div.intro {
+    text-align: justify;
+    text-justify: auto;
+}
